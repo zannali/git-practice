@@ -31,3 +31,10 @@
 
 Composer (version 1.9.2) successfully installed to: /usr/local/bin/composer
 Use it: php /usr/local/bin/composer
+
+cachet# nano /etc/php-7.3.
+php-7.3.ini         php-7.3.sample/
+cachet# nano /etc/php-7.3.ini
+=/usr/local/bin --filename=composer                                           <
+All settings correct for using Composer
+Downloading...
