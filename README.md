@@ -18,3 +18,12 @@
 
 -see additional changes made:
 
+- git init:
+- git status:
+- git add:
+- git commit:
+- git config:
+- git log:
+- git branch:
+- git checkout:
+
