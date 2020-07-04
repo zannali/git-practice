@@ -27,3 +27,5 @@
 - git branch:
 - git checkout:
 
+-git stash:
+
