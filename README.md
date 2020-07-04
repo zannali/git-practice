@@ -29,3 +29,5 @@
 
 -git stash:
 
+Composer (version 1.9.2) successfully installed to: /usr/local/bin/composer
+Use it: php /usr/local/bin/composer
