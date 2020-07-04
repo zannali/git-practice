@@ -10,3 +10,5 @@
 
 -git merge:
 
+-add more commands:
+
