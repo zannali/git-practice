@@ -4,4 +4,8 @@
 
 # Make another commit by adding more text
 
+-git log:
+-git show:
+-git diff:
+
 
