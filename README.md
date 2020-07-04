@@ -8,4 +8,5 @@
 -git show:
 -git diff:
 
+-git merge:
 
